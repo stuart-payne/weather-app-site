@@ -22,7 +22,7 @@
 
 <script>
 /* to-do
-  1. Make the app not look like shit
+  random comment
   */
 export default {
   name: 'app',
