@@ -23,6 +23,7 @@
 <script>
 /* to-do
   random comment
+  another comment
   */
 export default {
   name: 'app',
